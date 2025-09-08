@@ -15,7 +15,8 @@ public class Main {
 
 
             System.out.println("test git");
-            System.out.println("ich befinde mich gerade im Branche ...");
+          //  System.out.println("ich befinde mich gerade im Branche ...");
+            System.out.println("ich befinde mich jetzt im second branch");
         }
     }
 }
